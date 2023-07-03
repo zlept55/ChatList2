@@ -1,6 +1,3 @@
-<div>
-    {{-- A good traveler has no fixed plans and is not intent upon arriving. --}}
-
     <div class="chatlist_header">
 
         <div class="title">
@@ -38,4 +35,3 @@
         </div>
 
     </div>
-</div>
