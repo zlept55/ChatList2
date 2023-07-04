@@ -59,9 +59,40 @@
                      <i class="bi bi-check"></i>
                  </div>
              </div>
-         </div>
-     </div>
 
-     <div class="chatbox_footer">
-         footer
+         </div>
+
+         <div class="msg_body msg_body_me">
+
+             Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis laboriosam magnam nulla iusto nihil repellendus facere dolores voluptatem quo unde, libero aspernatur cumque cupiditate aut id ratione dolore reprehenderit similique!
+
+             <div class="msg_body_footer">
+
+                 <div class="date">
+                     5 hours ago
+                 </div>
+
+                 <div class="read">
+                     <i class="bi bi-check"></i>
+                 </div>
+             </div>
+
+         </div>
+
+         <div class="msg_body msg_body_me">
+
+             Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis laboriosam magnam nulla iusto nihil repellendus facere dolores voluptatem quo unde, libero aspernatur cumque cupiditate aut id ratione dolore reprehenderit similique!
+
+             <div class="msg_body_footer">
+
+                 <div class="date">
+                     5 hours ago
+                 </div>
+
+                 <div class="read">
+                     <i class="bi bi-check"></i>
+                 </div>
+             </div>
+
+         </div>x
      </div>
